@@ -4,9 +4,14 @@
 
 ## 数据下载
 
-[下载数据压缩包（v1.0.0）](https://github.com/xumeyao/shanxi-nox-daily-emissions-2014-2025/releases/download/v1.0.0/Shanxi_NOx_Daily_Emissions_2014_2025.zip) · [查看发布页](https://github.com/xumeyao/shanxi-nox-daily-emissions-2014-2025/releases/tag/v1.0.0)
+[查看 v1.0.0 发布页](https://github.com/xumeyao/shanxi-nox-daily-emissions-2014-2025/releases/tag/v1.0.0)。按年份下载所需分包：
 
-压缩包内含 12 个年度 MAT 文件及中文 `README.txt`。文件名格式为 `Shanxi_NOx_Daily_Emissions_YYYY.mat`，其中 `YYYY` 为年份。
+- [2014—2015 年](https://github.com/xumeyao/shanxi-nox-daily-emissions-2014-2025/releases/download/v1.0.0/Shanxi_NOx_Daily_Emissions_2014_2015.zip)
+- [2016—2017 年](https://github.com/xumeyao/shanxi-nox-daily-emissions-2014-2025/releases/download/v1.0.0/Shanxi_NOx_Daily_Emissions_2016_2017.zip)
+- [2018—2021 年](https://github.com/xumeyao/shanxi-nox-daily-emissions-2014-2025/releases/download/v1.0.0/Shanxi_NOx_Daily_Emissions_2018_2021.zip)
+- [2022—2025 年](https://github.com/xumeyao/shanxi-nox-daily-emissions-2014-2025/releases/download/v1.0.0/Shanxi_NOx_Daily_Emissions_2022_2025.zip)
+
+四个分包含 12 个年度 MAT 文件，每个分包均附中文 `README.txt`。文件名格式为 `Shanxi_NOx_Daily_Emissions_YYYY.mat`，其中 `YYYY` 为年份。
 
 ## 变量与单位
 
